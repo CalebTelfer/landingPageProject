@@ -1,0 +1,42 @@
+{
+    { Header div (FlEX)
+        [Header logo text] [links li]
+    } 
+
+    { first panel div (FLEX)
+        [div left box] [image div placeholder]
+    }
+
+---------------------------------------------------------
+
+    {
+        [Some random info] text
+
+        { div (FLEX)
+            [] [] [] [] <- 4 divs with box with rounded edges and then text.
+        }
+
+    }
+
+----------------------------------------------------------
+
+    { flex , put the quote in a div, align in center of screen
+        Inspiring quote
+        - THor god of thunder
+        (Align center and then left respectively)
+    }
+
+----------------------------------------------------------
+
+    {   FLEX
+        [CAll to action text] [ Sign up button] - space between. margin on outside.
+    }
+
+----------------------------------------------------------
+
+{ FLEX
+    copyright footer text, centered vertically, and horizontally.
+}
+
+
+}

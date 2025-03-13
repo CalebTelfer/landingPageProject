@@ -9,16 +9,21 @@ body {
 .header {
     display: flex;
     background-color: #1F2937;
+    padding: 0 200px;
+    justify-content: space-between;
 }
 
 .panel-one {
     background-color: #1F2937;
+    padding: 100px 200px;
+    gap: 50px;
 }
 
 .placeholder-img {
     display: flex;
-    background-color: #E5E7EB;
-    width: 500px;
+    background-color: #6D747D;
+    color: #E5E7EB;
+    width: 800px;
     height: 250px;
     justify-content: center;
     align-items: center;
@@ -37,6 +42,7 @@ h2 {
 
 ul {
     display: flex;
+    gap: 24px;
 }
 
 a,
@@ -55,6 +61,41 @@ li {
 
 .main-panel {
     display: flex;
+}
+
+h3 {
+    font-size: 36px;
+    color: #1F2937;
+    font-weight: 900;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.panel-two {
+    display: flex;
+    flex-direction: column;
+}
+
+.vert-content {
+    display: flex;
+    flex-direction: column;
+    width: 208px;
+}
+
+.boxes {
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+    gap: 50px;
+}
+.box {
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 4px;
+    border-color: #3882f6;
+    width: 200px;
+    height: 200px;
 }
 
 
