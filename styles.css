@@ -125,5 +125,44 @@ h4 {
     margin-top: -50px;
 }
 
+.panel-four {
+    height: 400px;
+}
 
+.rounded-div {
+    background-color: #3882F6;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    height: 120px;
+    width:  1000px;
+    margin: auto;
+}
 
+h5 {
+    font-size: 20px;
+    color: #f9faf8;
+}
+
+.sign-up-text {
+    font-size: 15px;
+    color: #f9faf8;
+    margin-top: -32px;
+}
+
+.p4-button {
+    height: 25px;
+    width: 80px;
+    background: none;
+    border-style: solid;
+    border-radius: 5px;
+    color: #f9faf8;
+    border-color: #f9faf8;;
+    margin: auto;
+    cursor: pointer;
+}
+
+.p4-text {
+    margin: auto;
+    margin-top: -1px;
+}
