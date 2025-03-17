@@ -166,3 +166,14 @@ h5 {
     margin: auto;
     margin-top: -1px;
 }
+
+.footer {
+    background-color: #1f2937;
+    height: 70px;
+    display: flex;
+}
+
+.copyright-text {
+    margin: auto;
+    color: #F9FAF8;
+}
