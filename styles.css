@@ -98,7 +98,30 @@ h3 {
     height: 200px;
 }
 
+.panel-three {
+    background-color: #E5E7EB;
+    height: 400px;
+}
 
+.quote {
+    display: flex;
+    width: 800px;
+    flex-direction: column;
+    margin: auto;
+}
+
+h4 {
+    font-size: 36px;
+    color: #1F2937;
+    font-style: italic;
+}
+
+.person {
+    margin-left: auto;
+    font-size: 25px;
+    font-weight: 900;
+    margin-top: -50px;
+}
 
 
 
